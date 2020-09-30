@@ -1,1 +1,2 @@
-# demobci_v2
+# DemoBCI
+Git demo BCI
